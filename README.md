@@ -1,3 +1,3 @@
-# hahaha
-no description at all
+test
+this is my first repository
 
